@@ -1,3 +1,4 @@
+<img src="https://github.com/140503116020/Video-Player/assets/27133087/e0be4590-e6e4-401f-8bdb-292d4cf5a123" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/dfaa2d61-2b12-4674-a219-6ba6d6725a09" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/f8c466d3-b66d-4436-b9fd-1beb6ac00876" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/2bf0117c-e856-4b8b-9c83-2e2266eda171" width="350" height="700">
