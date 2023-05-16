@@ -2,9 +2,11 @@
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/f8c466d3-b66d-4436-b9fd-1beb6ac00876" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/2bf0117c-e856-4b8b-9c83-2e2266eda171" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/d8ecaa80-0c18-4947-bb19-7c3cfd6f065f" width="350" height="700">
+<img src="https://github.com/140503116020/Video-Player/assets/27133087/d30c5d55-2b9b-4ff5-b449-eef2aa24f67e" width="350" height="700">
+
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/d2f90935-43a0-43ba-b1b4-978029db57a5" width="350" height="700">
-<img src="https://github.com/140503116020/Video-Player/assets/27133087/52b2ec47-7889-45fd-a915-403768db11ce" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/9e1b913e-9c0c-4ac0-9b6a-95ef94f943e8" width="350" height="700">
+<img src="https://github.com/140503116020/Video-Player/assets/27133087/52b2ec47-7889-45fd-a915-403768db11ce" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/5fef373c-8888-4afd-bd66-9dfbeafddb1f" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/7b469ae9-f278-4318-85e2-a14a09d757f9" width="350" height="700">
 <img src="https://github.com/140503116020/Video-Player/assets/27133087/0e1f43fc-6aed-4e7a-a506-1ed3628b6af5" width="350" height="700">
